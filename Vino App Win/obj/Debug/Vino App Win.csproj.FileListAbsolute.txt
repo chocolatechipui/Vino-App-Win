@@ -1,0 +1,32 @@
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\Vino App Win.xr.xml
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\Vino App Win.exe
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\Vino App Win.pdb
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\resources.pri
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\AppxManifest.xml
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\Vino App Win.build.appxrecipe
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\App.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\App.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\MainPage.g.i.cs
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\MainPage.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\XamlTypeInfo.g.cs
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\App.xaml
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\MainPage.xaml
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\App.xbf
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\MainPage.xbf
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\XamlSaveStateFile.xml
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\Vino App Win.exe
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\Vino App Win.pdb
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\priconfig.xml
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\priconfig.xml.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\layout.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\layout.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\resources.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\resources.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\pri.resfiles
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\pri.resfiles.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\qualifiers.txt
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\qualifiers.txt.intermediate
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\ProjectArchitectures.txt

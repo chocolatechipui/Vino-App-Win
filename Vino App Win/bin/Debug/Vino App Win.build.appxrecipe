@@ -1,0 +1,557 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHANGO</Machine>
+    <WindowsUser>Robert</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bfcf738c-9226-4ef6-8b30-1369c2cc90f4</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\Vino App Win.exe">
+      <PackagePath>Vino App Win.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\chui\chui-3.8.0.js">
+      <PackagePath>Html\chui\chui-3.8.0.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\chui\chui-3.8.0.min.js">
+      <PackagePath>Html\chui\chui-3.8.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\chui\chui-3.8.1.js">
+      <PackagePath>Html\chui\chui-3.8.1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\data\bestWines.js">
+      <PackagePath>Html\data\bestWines.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\data\californiaWines.js">
+      <PackagePath>Html\data\californiaWines.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\js\app.js">
+      <PackagePath>Html\js\app.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\js\jquery-2.1.1.min.js">
+      <PackagePath>Html\js\jquery-2.1.1.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\chui\chui-ios-3.8.0.css">
+      <PackagePath>Html\chui\chui-ios-3.8.0.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\chui\chui-ios-3.8.0.min.css">
+      <PackagePath>Html\chui\chui-ios-3.8.0.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\chui\chui-win-3.8.0.css">
+      <PackagePath>Html\chui\chui-win-3.8.0.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\chui\chui-win-3.8.0.min.css">
+      <PackagePath>Html\chui\chui-win-3.8.0.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\chui\chui-win-3.8.1.css">
+      <PackagePath>Html\chui\chui-win-3.8.1.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\css\phone.css">
+      <PackagePath>Html\css\phone.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\css\styles.css">
+      <PackagePath>Html\css\styles.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-1.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-10.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-11.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-12.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-13.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-14.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-15.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-16.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-17.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-17.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-18.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-18.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-19.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-19.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-2.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-20.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-20.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-21.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-21.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-22.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-22.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-23.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-23.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-24.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-24.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-25.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-25.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-26.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-26.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-27.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-27.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-28.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-28.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-29.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-3.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-30.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-30.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-31.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-31.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-32.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-32.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-33.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-33.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-34.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-34.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-35.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-35.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-36.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-36.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-37.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-37.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-38.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-38.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-39.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-39.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-4.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-40.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-40.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-41.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-41.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-42.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-42.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-43.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-43.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-44.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-44.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-45.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-45.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-46.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-46.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-47.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-47.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-48.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-48.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-49.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-49.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-5.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-50.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-50.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-51.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-51.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-52.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-52.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-53.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-53.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-54.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-54.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-55.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-55.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-56.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-56.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-57.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-57.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-58.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-58.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-59.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-59.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-6.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-60.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-60.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-61.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-61.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-62.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-62.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-63.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-63.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-64.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-64.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-65.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-65.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-66.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-66.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-67.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-67.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-68.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-68.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-69.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-69.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-7.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-70.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-70.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-8.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels-ipad\img-9.jpg">
+      <PackagePath>Html\images\barrels-ipad\img-9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-1.jpg">
+      <PackagePath>Html\images\barrels\img-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-10.jpg">
+      <PackagePath>Html\images\barrels\img-10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-11.jpg">
+      <PackagePath>Html\images\barrels\img-11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-12.jpg">
+      <PackagePath>Html\images\barrels\img-12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-13.jpg">
+      <PackagePath>Html\images\barrels\img-13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-14.jpg">
+      <PackagePath>Html\images\barrels\img-14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-15.jpg">
+      <PackagePath>Html\images\barrels\img-15.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-16.jpg">
+      <PackagePath>Html\images\barrels\img-16.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-17.jpg">
+      <PackagePath>Html\images\barrels\img-17.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-18.jpg">
+      <PackagePath>Html\images\barrels\img-18.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-19.jpg">
+      <PackagePath>Html\images\barrels\img-19.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-2.jpg">
+      <PackagePath>Html\images\barrels\img-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-20.jpg">
+      <PackagePath>Html\images\barrels\img-20.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-21.jpg">
+      <PackagePath>Html\images\barrels\img-21.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-22.jpg">
+      <PackagePath>Html\images\barrels\img-22.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-23.jpg">
+      <PackagePath>Html\images\barrels\img-23.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-24.jpg">
+      <PackagePath>Html\images\barrels\img-24.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-25.jpg">
+      <PackagePath>Html\images\barrels\img-25.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-26.jpg">
+      <PackagePath>Html\images\barrels\img-26.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-27.jpg">
+      <PackagePath>Html\images\barrels\img-27.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-28.jpg">
+      <PackagePath>Html\images\barrels\img-28.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-29.jpg">
+      <PackagePath>Html\images\barrels\img-29.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-3.jpg">
+      <PackagePath>Html\images\barrels\img-3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-30.jpg">
+      <PackagePath>Html\images\barrels\img-30.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-31.jpg">
+      <PackagePath>Html\images\barrels\img-31.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-32.jpg">
+      <PackagePath>Html\images\barrels\img-32.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-33.jpg">
+      <PackagePath>Html\images\barrels\img-33.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-34.jpg">
+      <PackagePath>Html\images\barrels\img-34.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-35.jpg">
+      <PackagePath>Html\images\barrels\img-35.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-36.jpg">
+      <PackagePath>Html\images\barrels\img-36.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-37.jpg">
+      <PackagePath>Html\images\barrels\img-37.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-38.jpg">
+      <PackagePath>Html\images\barrels\img-38.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-39.jpg">
+      <PackagePath>Html\images\barrels\img-39.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-4.jpg">
+      <PackagePath>Html\images\barrels\img-4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-40.jpg">
+      <PackagePath>Html\images\barrels\img-40.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-41.jpg">
+      <PackagePath>Html\images\barrels\img-41.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-42.jpg">
+      <PackagePath>Html\images\barrels\img-42.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-43.jpg">
+      <PackagePath>Html\images\barrels\img-43.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-44.jpg">
+      <PackagePath>Html\images\barrels\img-44.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-45.jpg">
+      <PackagePath>Html\images\barrels\img-45.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-46.jpg">
+      <PackagePath>Html\images\barrels\img-46.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-47.jpg">
+      <PackagePath>Html\images\barrels\img-47.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-48.jpg">
+      <PackagePath>Html\images\barrels\img-48.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-49.jpg">
+      <PackagePath>Html\images\barrels\img-49.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-5.jpg">
+      <PackagePath>Html\images\barrels\img-5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-50.jpg">
+      <PackagePath>Html\images\barrels\img-50.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-51.jpg">
+      <PackagePath>Html\images\barrels\img-51.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-52.jpg">
+      <PackagePath>Html\images\barrels\img-52.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-53.jpg">
+      <PackagePath>Html\images\barrels\img-53.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-54.jpg">
+      <PackagePath>Html\images\barrels\img-54.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-55.jpg">
+      <PackagePath>Html\images\barrels\img-55.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-56.jpg">
+      <PackagePath>Html\images\barrels\img-56.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-57.jpg">
+      <PackagePath>Html\images\barrels\img-57.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-58.jpg">
+      <PackagePath>Html\images\barrels\img-58.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-59.jpg">
+      <PackagePath>Html\images\barrels\img-59.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-6.jpg">
+      <PackagePath>Html\images\barrels\img-6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-60.jpg">
+      <PackagePath>Html\images\barrels\img-60.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-61.jpg">
+      <PackagePath>Html\images\barrels\img-61.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-62.jpg">
+      <PackagePath>Html\images\barrels\img-62.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-63.jpg">
+      <PackagePath>Html\images\barrels\img-63.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-64.jpg">
+      <PackagePath>Html\images\barrels\img-64.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-65.jpg">
+      <PackagePath>Html\images\barrels\img-65.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-66.jpg">
+      <PackagePath>Html\images\barrels\img-66.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-67.jpg">
+      <PackagePath>Html\images\barrels\img-67.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-68.jpg">
+      <PackagePath>Html\images\barrels\img-68.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-69.jpg">
+      <PackagePath>Html\images\barrels\img-69.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-7.jpg">
+      <PackagePath>Html\images\barrels\img-7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-70.jpg">
+      <PackagePath>Html\images\barrels\img-70.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-8.jpg">
+      <PackagePath>Html\images\barrels\img-8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\barrels\img-9.jpg">
+      <PackagePath>Html\images\barrels\img-9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\wine-bottle-sizes-4.jpg">
+      <PackagePath>Html\images\wine-bottle-sizes-4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\resources\info-button-android.svg">
+      <PackagePath>Html\images\resources\info-button-android.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\resources\info-button.svg">
+      <PackagePath>Html\images\resources\info-button.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\resources\Logo.svg">
+      <PackagePath>Html\images\resources\Logo.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\images\resources\search.svg">
+      <PackagePath>Html\images\resources\search.svg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\Html\index.html">
+      <PackagePath>Html\index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\Vino App Win.xr.xml">
+      <PackagePath>Vino App Win.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\robert\documents\visual studio 2013\Projects\Vino App Win\Vino App Win\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
